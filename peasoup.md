@@ -5,5 +5,4 @@
 - spring unions (£1)
 - potato (£2)
 # Instructions
-- shell the peas
-
+- shell the peas and put things into a pan.
