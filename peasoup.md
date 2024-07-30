@@ -5,5 +5,4 @@
 - spring unions (£1)
 - potato (£2)
 # Instructions
--step 1
-
+- put things into a pan.
